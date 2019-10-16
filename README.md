@@ -7,7 +7,7 @@ After that, sends a HTTP request to a server in the form of a CDR message.
 
 # Schema
 
-All API access is through HTTP(S) requests at `your-inchat-url.com/api/v1`.
+All API access is through HTTP(S) requests at `your-server-url.com/api/v1`.
 All request and response bodies are `application/json`.
 
 * **Users**
